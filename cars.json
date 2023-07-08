@@ -1,0 +1,54 @@
+[
+    {
+      "nome": "Azera V6",
+      "preco": 85000
+    },
+    {
+        "nome": "Onix 1.6",
+        "preco": 83000
+    },
+    {
+        "nome": "Fiesta 2.0",
+        "preco": 52000
+    },
+    {
+        "nome": "C3 1.0",
+        "preco": 22000
+    },
+    {
+        "nome": "Uno Fire",
+        "preco": 11000
+    },
+    {
+        "nome": "Sentra 2.0",
+        "preco": 53000
+    },
+    {
+        "nome": "Astra Sedan",
+        "preco": 39000
+    },
+    {
+        "nome": "Vectra 2.0 Turbo",
+        "preco": 85000
+    },
+    {
+        "nome": "Hillux 4X4",
+        "preco": 110000
+    },
+    {
+        "nome": "Montana Cabine Dupla",
+        "preco": 570000
+    },
+    {
+        "nome": "Outlander 2.4",
+        "preco": 99000
+    },
+    {
+        "nome": "Corolla",
+        "preco": 95000
+    },
+    {
+        "nome": "Audi TT",
+        "preco": 470000
+    }
+  ]
